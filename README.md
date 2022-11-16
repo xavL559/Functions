@@ -1,1 +1,1 @@
-# Functions
+showing off what i know about functions and what i could learn me displaying numbers and the amount of how many letters there are in a sentence.
